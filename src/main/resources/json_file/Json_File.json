@@ -1,0 +1,21 @@
+[
+  {
+	"firstName" : "Tushar",
+	"lastName" : "Singh",
+	"age" : "22",
+	"address" : {"street" : "Vishal Kanya", "city" : "Bareilly", "zip" : "243112"},
+	"cars" : ["Lamborghini Aventador SVJ", "Mercedes Benz"]
+ },
+ {
+	"firstName" : "Shanky",
+	"lastName" : "Singh",
+	"address" : {"street" : "Vishal Kanya", "city" : "Bareilly", "zip" : "243112"},
+	"cars" : ["Lamborghini Aventador SVJ", "Mercedes Benz"]
+ },
+ {
+	"firstName" : "MainAttacker",
+	"lastName" : "TMA",
+	"address" : {"street" : "Vishal Kanya", "city" : "Bareilly", "zip" : "243112"},
+	"cars" : ["Lamborghini Aventador SVJ", "Mercedes Benz"]
+ }
+]
